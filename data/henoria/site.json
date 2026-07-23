@@ -1,0 +1,60 @@
+{
+  "id": "henoria",
+  "name": "Henoria",
+  "tagline": "Fashion for Everyone",
+  "logo": "/images/logo.png",
+  "logo_white": "/images/logo1.png",
+  "favicon": "/images/headerlogo.png",
+  "email": "henoriaa@gmail.com",
+  "phone": ["84390 06764", "97209 48436", "88595 32380"],
+  "address": "123 Fashion Street, Mumbai, India - 400001",
+  "social": {
+    "facebook": "https://facebook.com/henoria",
+    "instagram": "https://instagram.com/_henoria",
+    "twitter": "https://twitter.com/henoria",
+    "youtube": "https://youtube.com/henoria"
+  },
+  "theme": {
+    "primaryColor": "#b8862f",
+    "primaryHover": "#96701f",
+    "darkColor": "#1c1712",
+    "accentColor": "#ffbb6a",
+    "goldColor": "#d7b053",
+    "fontHeading": "Playfair Display",
+    "fontBody": "Inter"
+  },
+  "announcement": "⚡️ Happy Holiday Deals on Everything — Free Shipping above ₹999 ⚡️",
+  "currency": "₹",
+  "mainNav": [
+    { "id": "home", "label": "Home", "href": "/" },
+    { "id": "men", "label": "Men", "href": "/men", "megaMenu": "men" },
+    { "id": "women", "label": "Women", "href": "/women", "megaMenu": "women" },
+    { "id": "kids", "label": "Kids", "href": "/kids", "megaMenu": "kids" },
+    { "id": "bags", "label": "Bags", "href": "/bags" },
+    { "id": "blog", "label": "Blog", "href": "/blog" },
+    { "id": "coming-soon", "label": "coming-soon", "href": "/coming-soon" },
+    { "id": "contact", "label": "contact", "href": "/contact" },
+    { "id": "faq", "label": "faq", "href": "/faq" },
+    { "id": "about", "label": "About", "href": "/about" }
+  ],
+  "footerLinks": {
+    "support": [
+      { "label": "Contact Us", "href": "/contact" },
+      { "label": "FAQs", "href": "/faq" },
+      { "label": "Size Guide", "href": "/size-guide" },
+      { "label": "Shipping & Returns", "href": "/shipping" }
+    ],
+    "shop": [
+      { "label": "Men's Shopping", "href": "/boys" },
+      { "label": "Women's Shopping", "href": "/girls" },
+      { "label": "Kids' Shopping", "href": "/kids" },
+      { "label": "Bags", "href": "/bags" }
+    ],
+    "company": [
+      { "label": "Our Story", "href": "/about" },
+      { "label": "Careers", "href": "#" },
+      { "label": "Terms & Conditions", "href": "#" },
+      { "label": "Privacy & Cookie Policy", "href": "#" }
+    ]
+  }
+}

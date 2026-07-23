@@ -1,0 +1,290 @@
+[
+  {
+    "id": "women-dresses",
+    "slug": "dresses",
+    "name": "Dresses",
+    "gender": "women",
+    "parentSlug": "western-wear",
+    "image": "/images/products/product-1.jpg",
+    "productCount": 0
+  },
+  {
+    "id": "women-tops",
+    "slug": "tops",
+    "name": "Tops",
+    "gender": "women",
+    "parentSlug": "western-wear",
+    "image": "/images/products/product-2.jpg",
+    "productCount": 0
+  },
+  {
+    "id": "women-t-shirts",
+    "slug": "t-shirts",
+    "name": "T-Shirts",
+    "gender": "women",
+    "parentSlug": "western-wear",
+    "image": "/images/products/product-3.jpg",
+    "productCount": 0
+  },
+  {
+    "id": "women-jeans",
+    "slug": "jeans",
+    "name": "Jeans",
+    "gender": "women",
+    "parentSlug": "western-wear",
+    "image": "/images/products/product-4.jpg",
+    "productCount": 0
+  },
+  {
+    "id": "women-shorts",
+    "slug": "shorts",
+    "name": "Shorts & Skirts",
+    "gender": "women",
+    "parentSlug": "western-wear",
+    "image": "/images/products/product-5.jpg",
+    "productCount": 0
+  },
+  {
+    "id": "women-kurtas",
+    "slug": "kurtas",
+    "name": "Kurtas & Suits",
+    "gender": "women",
+    "parentSlug": "indian-fusion",
+    "image": "/images/products/product-6.jpg",
+    "productCount": 0
+  },
+  {
+    "id": "women-sarees",
+    "slug": "sarees",
+    "name": "Sarees",
+    "gender": "women",
+    "parentSlug": "indian-fusion",
+    "image": "/images/products/product-7.jpg",
+    "productCount": 0
+  },
+  {
+    "id": "women-lehenga",
+    "slug": "lehenga",
+    "name": "Lehenga Cholis",
+    "gender": "women",
+    "parentSlug": "indian-fusion",
+    "image": "/images/products/product-8.jpg",
+    "productCount": 0
+  },
+  {
+    "id": "women-bra",
+    "slug": "bra",
+    "name": "Bra",
+    "gender": "women",
+    "parentSlug": "lingerie-sleepwear",
+    "image": "/images/products/product-9.jpg",
+    "productCount": 0
+  },
+  {
+    "id": "women-sleepwear",
+    "slug": "sleepwear",
+    "name": "Sleepwear & Loungewear",
+    "gender": "women",
+    "parentSlug": "lingerie-sleepwear",
+    "image": "/images/products/product-10.jpg",
+    "productCount": 0
+  },
+  {
+    "id": "women-swimwear",
+    "slug": "swimwear",
+    "name": "Swimwear",
+    "gender": "women",
+    "parentSlug": "lingerie-sleepwear",
+    "image": "/images/products/product-11.jpg",
+    "productCount": 0
+  },
+  {
+    "id": "women-heels",
+    "slug": "heels",
+    "name": "Heels",
+    "gender": "women",
+    "parentSlug": "footwear",
+    "image": "/images/products/product-12.jpg",
+    "productCount": 0
+  },
+  {
+    "id": "women-flats",
+    "slug": "flats",
+    "name": "Flats",
+    "gender": "women",
+    "parentSlug": "footwear",
+    "image": "/images/products/product-13.jpg",
+    "productCount": 0
+  },
+  {
+    "id": "women-handbags",
+    "slug": "handbags",
+    "name": "Handbags & Wallets",
+    "gender": "women",
+    "parentSlug": "bags-wallets",
+    "image": "/images/products/product-14.jpg",
+    "productCount": 0
+  },
+  {
+    "id": "women-jewellery",
+    "slug": "jewellery",
+    "name": "Fashion Jewellery",
+    "gender": "women",
+    "parentSlug": "accessories",
+    "image": "/images/products/product-15.jpg",
+    "productCount": 0
+  },
+  {
+    "id": "men-tshirts",
+    "slug": "t-shirts",
+    "name": "T-Shirts",
+    "gender": "men",
+    "parentSlug": "topwear",
+    "image": "/images/products/boys/product-2.jpg",
+    "productCount": 0
+  },
+  {
+    "id": "men-shirts",
+    "slug": "casual-shirts",
+    "name": "Casual Shirts",
+    "gender": "men",
+    "parentSlug": "topwear",
+    "image": "/images/products/boys/product-3.jpg",
+    "productCount": 0
+  },
+  {
+    "id": "men-formal-shirts",
+    "slug": "formal-shirts",
+    "name": "Formal Shirts",
+    "gender": "men",
+    "parentSlug": "topwear",
+    "image": "/images/products/boys/product-4.jpg",
+    "productCount": 0
+  },
+  {
+    "id": "men-jackets",
+    "slug": "jackets",
+    "name": "Jackets",
+    "gender": "men",
+    "parentSlug": "topwear",
+    "image": "/images/products/boys/product-5.jpg",
+    "productCount": 0
+  },
+  {
+    "id": "men-jeans",
+    "slug": "jeans",
+    "name": "Jeans",
+    "gender": "men",
+    "parentSlug": "bottomwear",
+    "image": "/images/products/boys/product-6.jpg",
+    "productCount": 0
+  },
+  {
+    "id": "men-shorts",
+    "slug": "shorts",
+    "name": "Shorts",
+    "gender": "men",
+    "parentSlug": "bottomwear",
+    "image": "/images/products/boys/product-7.jpg",
+    "productCount": 0
+  },
+  {
+    "id": "men-track-pants",
+    "slug": "track-pants",
+    "name": "Track Pants & Joggers",
+    "gender": "men",
+    "parentSlug": "bottomwear",
+    "image": "/images/products/boys/product-8.jpg",
+    "productCount": 0
+  },
+  {
+    "id": "men-kurtas",
+    "slug": "kurtas",
+    "name": "Kurtas & Kurta Sets",
+    "gender": "men",
+    "parentSlug": "indian-festive",
+    "image": "/images/products/boys/product-9.jpg",
+    "productCount": 0
+  },
+  {
+    "id": "men-sports-shoes",
+    "slug": "sports-shoes",
+    "name": "Sports Shoes",
+    "gender": "men",
+    "parentSlug": "footwear",
+    "image": "/images/products/product-01.jpeg",
+    "productCount": 0
+  },
+  {
+    "id": "men-casual-shoes",
+    "slug": "casual-shoes",
+    "name": "Casual Shoes",
+    "gender": "men",
+    "parentSlug": "footwear",
+    "image": "/images/products/product-03.jpeg",
+    "productCount": 0
+  },
+  {
+    "id": "men-wallets",
+    "slug": "wallets",
+    "name": "Wallets",
+    "gender": "men",
+    "parentSlug": "accessories",
+    "image": "/images/products/product-06.jpeg",
+    "productCount": 0
+  },
+  {
+    "id": "men-watches",
+    "slug": "watches",
+    "name": "Watches",
+    "gender": "men",
+    "parentSlug": "accessories",
+    "image": "/images/products/product-07.jpeg",
+    "productCount": 0
+  },
+  {
+    "id": "bags-backpacks",
+    "slug": "backpacks",
+    "name": "Backpacks",
+    "gender": "unisex",
+    "parentSlug": "bags",
+    "image": "/images/products/bags/product-1.jpg",
+    "productCount": 0
+  },
+  {
+    "id": "bags-handbags",
+    "slug": "handbags",
+    "name": "Handbags",
+    "gender": "women",
+    "parentSlug": "bags",
+    "image": "/images/products/bags/product-2.jpg",
+    "productCount": 0
+  },
+  {
+    "id": "bags-luggage",
+    "slug": "luggage",
+    "name": "Luggage & Trolleys",
+    "gender": "unisex",
+    "parentSlug": "bags",
+    "image": "/images/products/bags/product-3.jpg",
+    "productCount": 0
+  },
+  {
+    "id": "kids-boys",
+    "slug": "boys-tshirts",
+    "name": "Boys T-Shirts",
+    "gender": "kids",
+    "parentSlug": "kids-boys",
+    "image": "/images/products/product-08.jpeg",
+    "productCount": 0
+  },
+  {
+    "id": "kids-girls",
+    "slug": "girls-dresses",
+    "name": "Girls Dresses",
+    "gender": "kids",
+    "parentSlug": "kids-girls",
+    "image": "/images/products/product-09.jpeg",
+    "productCount": 0
+  }
+]

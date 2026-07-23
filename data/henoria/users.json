@@ -1,0 +1,66 @@
+[
+  {
+    "id": "user-1",
+    "name": "Admin User",
+    "email": "admin@henoria.com",
+    "password": "admin123",
+    "phone": "9876543210",
+    "role": "admin",
+    "avatar": "",
+    "addresses": [
+      {
+        "id": "addr-1",
+        "label": "Home",
+        "fullName": "Admin User",
+        "phone": "9876543210",
+        "line1": "123 Admin Street",
+        "line2": "Near Park",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "pincode": "400001",
+        "country": "India",
+        "isDefault": true
+      }
+    ],
+    "wishlist": [],
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "user-2",
+    "name": "Priya Sharma",
+    "email": "priya@example.com",
+    "password": "user123",
+    "phone": "8765432109",
+    "role": "user",
+    "avatar": "",
+    "addresses": [
+      {
+        "id": "addr-2",
+        "label": "Home",
+        "fullName": "Priya Sharma",
+        "phone": "8765432109",
+        "line1": "456 Rose Garden",
+        "line2": "Sector 12",
+        "city": "Delhi",
+        "state": "Delhi",
+        "pincode": "110001",
+        "country": "India",
+        "isDefault": true
+      }
+    ],
+    "wishlist": ["women-1", "women-3"],
+    "createdAt": "2024-02-15T00:00:00Z"
+  },
+  {
+    "id": "user-3",
+    "name": "Rahul Kumar",
+    "email": "rahul@example.com",
+    "password": "rahul123",
+    "phone": "7654321098",
+    "role": "user",
+    "avatar": "",
+    "addresses": [],
+    "wishlist": ["bags-1"],
+    "createdAt": "2024-03-10T00:00:00Z"
+  }
+]

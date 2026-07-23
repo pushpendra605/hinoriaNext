@@ -1,0 +1,286 @@
+[
+  {
+    "productId": "women-1",
+    "sizes": {
+      "XS": 5,
+      "S": 10,
+      "M": 15,
+      "L": 12,
+      "XL": 8,
+      "XXL": 3
+    },
+    "totalStock": 53,
+    "reserved": 2,
+    "available": 51,
+    "lastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "productId": "women-2",
+    "sizes": {
+      "XS": 3,
+      "S": 7,
+      "M": 20,
+      "L": 18,
+      "XL": 10,
+      "XXL": 5
+    },
+    "totalStock": 63,
+    "reserved": 1,
+    "available": 62,
+    "lastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "productId": "women-3",
+    "sizes": {
+      "XS": 0,
+      "S": 2,
+      "M": 5,
+      "L": 8,
+      "XL": 4,
+      "XXL": 1
+    },
+    "totalStock": 20,
+    "reserved": 0,
+    "available": 20,
+    "lastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "productId": "women-4",
+    "sizes": {
+      "XS": 6,
+      "S": 9,
+      "M": 12,
+      "L": 10,
+      "XL": 7,
+      "XXL": 2
+    },
+    "totalStock": 46,
+    "reserved": 3,
+    "available": 43,
+    "lastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "productId": "women-5",
+    "sizes": {
+      "XS": 4,
+      "S": 8,
+      "M": 11,
+      "L": 9,
+      "XL": 5,
+      "XXL": 2
+    },
+    "totalStock": 39,
+    "reserved": 0,
+    "available": 39,
+    "lastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "productId": "women-6",
+    "sizes": {
+      "XS": 2,
+      "S": 5,
+      "M": 8,
+      "L": 6,
+      "XL": 3,
+      "XXL": 1
+    },
+    "totalStock": 25,
+    "reserved": 1,
+    "available": 24,
+    "lastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "productId": "women-7",
+    "sizes": {
+      "XS": 7,
+      "S": 12,
+      "M": 18,
+      "L": 15,
+      "XL": 9,
+      "XXL": 4
+    },
+    "totalStock": 65,
+    "reserved": 2,
+    "available": 63,
+    "lastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "productId": "women-8",
+    "sizes": {
+      "XS": 1,
+      "S": 3,
+      "M": 6,
+      "L": 4,
+      "XL": 2,
+      "XXL": 0
+    },
+    "totalStock": 16,
+    "reserved": 0,
+    "available": 16,
+    "lastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "productId": "women-9",
+    "sizes": {
+      "XS": 5,
+      "S": 10,
+      "M": 14,
+      "L": 11,
+      "XL": 6,
+      "XXL": 2
+    },
+    "totalStock": 48,
+    "reserved": 1,
+    "available": 47,
+    "lastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "productId": "women-10",
+    "sizes": {
+      "XS": 3,
+      "S": 6,
+      "M": 9,
+      "L": 7,
+      "XL": 4,
+      "XXL": 1
+    },
+    "totalStock": 30,
+    "reserved": 0,
+    "available": 30,
+    "lastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "productId": "women-11",
+    "sizes": {
+      "XS": 8,
+      "S": 13,
+      "M": 20,
+      "L": 17,
+      "XL": 10,
+      "XXL": 5
+    },
+    "totalStock": 73,
+    "reserved": 3,
+    "available": 70,
+    "lastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "productId": "women-12",
+    "sizes": {
+      "XS": 2,
+      "S": 4,
+      "M": 7,
+      "L": 5,
+      "XL": 3,
+      "XXL": 1
+    },
+    "totalStock": 22,
+    "reserved": 0,
+    "available": 22,
+    "lastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "productId": "women-13",
+    "sizes": {
+      "XS": 6,
+      "S": 11,
+      "M": 16,
+      "L": 13,
+      "XL": 8,
+      "XXL": 3
+    },
+    "totalStock": 57,
+    "reserved": 2,
+    "available": 55,
+    "lastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "productId": "women-14",
+    "sizes": {
+      "XS": 4,
+      "S": 7,
+      "M": 10,
+      "L": 8,
+      "XL": 5,
+      "XXL": 2
+    },
+    "totalStock": 36,
+    "reserved": 0,
+    "available": 36,
+    "lastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "productId": "women-15",
+    "sizes": {
+      "XS": 0,
+      "S": 1,
+      "M": 3,
+      "L": 2,
+      "XL": 1,
+      "XXL": 0
+    },
+    "totalStock": 7,
+    "reserved": 0,
+    "available": 7,
+    "lastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "productId": "women-16",
+    "sizes": {
+      "XS": 5,
+      "S": 9,
+      "M": 13,
+      "L": 11,
+      "XL": 7,
+      "XXL": 3
+    },
+    "totalStock": 48,
+    "reserved": 1,
+    "available": 47,
+    "lastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "productId": "men-1",
+    "sizes": {
+      "S": 15,
+      "M": 20,
+      "L": 18,
+      "XL": 12,
+      "XXL": 6
+    },
+    "totalStock": 71,
+    "reserved": 2,
+    "available": 69,
+    "lastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "productId": "bags-1",
+    "sizes": {
+      "One Size": 35
+    },
+    "totalStock": 35,
+    "reserved": 0,
+    "available": 35,
+    "lastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "productId": "bags-2",
+    "sizes": {
+      "One Size": 22
+    },
+    "totalStock": 22,
+    "reserved": 1,
+    "available": 21,
+    "lastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "productId": "bags-3",
+    "sizes": {
+      "One Size": 33
+    },
+    "totalStock": 33,
+    "reserved": 0,
+    "available": 33,
+    "lastUpdated": "2024-01-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "coupon-1",
+    "code": "WELCOME10",
+    "description": "10% off on your first order",
+    "type": "percentage",
+    "value": 10,
+    "minOrderValue": 499,
+    "maxDiscount": 200,
+    "usageLimit": 1000,
+    "usedCount": 245,
+    "isActive": true,
+    "expiresAt": "2025-12-31T23:59:59Z",
+    "applicableFor": "all"
+  },
+  {
+    "id": "coupon-2",
+    "code": "FLAT200",
+    "description": "Flat ₹200 off on orders above ₹1499",
+    "type": "fixed",
+    "value": 200,
+    "minOrderValue": 1499,
+    "maxDiscount": 200,
+    "usageLimit": 500,
+    "usedCount": 123,
+    "isActive": true,
+    "expiresAt": "2025-12-31T23:59:59Z",
+    "applicableFor": "all"
+  },
+  {
+    "id": "coupon-3",
+    "code": "SUMMER25",
+    "description": "25% off on summer collection",
+    "type": "percentage",
+    "value": 25,
+    "minOrderValue": 999,
+    "maxDiscount": 500,
+    "usageLimit": 200,
+    "usedCount": 87,
+    "isActive": true,
+    "expiresAt": "2025-08-31T23:59:59Z",
+    "applicableFor": "women"
+  },
+  {
+    "id": "coupon-4",
+    "code": "FREESHIP",
+    "description": "Free shipping on any order",
+    "type": "shipping",
+    "value": 100,
+    "minOrderValue": 0,
+    "maxDiscount": 100,
+    "usageLimit": 1000,
+    "usedCount": 456,
+    "isActive": true,
+    "expiresAt": "2025-12-31T23:59:59Z",
+    "applicableFor": "all"
+  }
+]

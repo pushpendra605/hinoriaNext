@@ -1,0 +1,149 @@
+[
+  {
+    "id": "ORD-2024-001",
+    "userId": "user-2",
+    "items": [
+      {
+        "productId": "women-1",
+        "name": "Black SelfDesign Striped Asymmetric Neck Slip Knitted Sheath Dress",
+        "thumbnail": "/images/products/women/1/bebeBlackSelfDesignStripedAsymmetricNeckSlipKnittedSheathDre1.jpg",
+        "price": 1299,
+        "discountPercent": 40,
+        "finalPrice": 779,
+        "quantity": 1,
+        "size": "M",
+        "color": "Black"
+      }
+    ],
+    "address": {
+      "fullName": "Priya Sharma",
+      "phone": "8765432109",
+      "line1": "456 Rose Garden",
+      "line2": "Sector 12",
+      "city": "Delhi",
+      "state": "Delhi",
+      "pincode": "110001",
+      "country": "India"
+    },
+    "couponApplied": "WELCOME10",
+    "subtotal": 779,
+    "discount": 78,
+    "deliveryCharge": 0,
+    "total": 701,
+    "paymentMethod": "COD",
+    "paymentStatus": "Pending",
+    "status": "Placed",
+    "statusHistory": [
+      {
+        "status": "Placed",
+        "timestamp": "2024-03-01T10:00:00Z",
+        "note": "Order placed successfully"
+      }
+    ],
+    "createdAt": "2024-03-01T10:00:00Z",
+    "updatedAt": "2026-07-23T03:03:47.124Z"
+  },
+  {
+    "id": "ORD-2024-002",
+    "userId": "user-2",
+    "items": [
+      {
+        "productId": "women-3",
+        "name": "Black SelfDesign Striped Asymmetric Neck",
+        "thumbnail": "/images/products/women/9/SHOWOFFPrintVelvetSheathMidiDress1.jpg",
+        "price": 1685,
+        "discountPercent": 47,
+        "finalPrice": 893,
+        "quantity": 2,
+        "size": "S",
+        "color": "Maroon"
+      }
+    ],
+    "address": {
+      "fullName": "Priya Sharma",
+      "phone": "8765432109",
+      "line1": "456 Rose Garden",
+      "line2": "Sector 12",
+      "city": "Delhi",
+      "state": "Delhi",
+      "pincode": "110001",
+      "country": "India"
+    },
+    "couponApplied": null,
+    "subtotal": 1786,
+    "discount": 0,
+    "deliveryCharge": 0,
+    "total": 1786,
+    "paymentMethod": "Online",
+    "paymentStatus": "Paid",
+    "status": "Shipped",
+    "statusHistory": [
+      {
+        "status": "Placed",
+        "timestamp": "2024-04-10T15:00:00Z",
+        "note": "Order placed"
+      },
+      {
+        "status": "Confirmed",
+        "timestamp": "2024-04-10T16:00:00Z",
+        "note": "Confirmed"
+      },
+      {
+        "status": "Shipped",
+        "timestamp": "2024-04-11T10:00:00Z",
+        "note": "Shipped via Delhivery"
+      }
+    ],
+    "createdAt": "2024-04-10T15:00:00Z",
+    "updatedAt": "2024-04-11T10:00:00Z"
+  },
+  {
+    "id": "ORD-2024-003",
+    "userId": "user-3",
+    "items": [
+      {
+        "productId": "bags-1",
+        "name": "Canvas Backpack",
+        "thumbnail": "/images/products/bags/product-1.jpg",
+        "price": 1299,
+        "discountPercent": 30,
+        "finalPrice": 909,
+        "quantity": 1,
+        "size": "One Size",
+        "color": "Black"
+      }
+    ],
+    "address": {
+      "fullName": "Rahul Kumar",
+      "phone": "7654321098",
+      "line1": "789 MG Road",
+      "line2": "",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pincode": "560001",
+      "country": "India"
+    },
+    "couponApplied": null,
+    "subtotal": 909,
+    "discount": 0,
+    "deliveryCharge": 49,
+    "total": 958,
+    "paymentMethod": "COD",
+    "paymentStatus": "Pending",
+    "status": "Delivered",
+    "statusHistory": [
+      {
+        "status": "Placed",
+        "timestamp": "2024-04-15T12:00:00Z",
+        "note": "Order placed"
+      },
+      {
+        "status": "Delivered",
+        "timestamp": "2026-07-23T03:26:49.394Z",
+        "note": "Status updated to Delivered"
+      }
+    ],
+    "createdAt": "2024-04-15T12:00:00Z",
+    "updatedAt": "2026-07-23T03:26:49.394Z"
+  }
+]
