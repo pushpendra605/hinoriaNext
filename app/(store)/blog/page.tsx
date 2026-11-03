@@ -26,7 +26,7 @@ export default function BlogPage() {
         <div className="max-w-2xl mx-auto px-4">
           <p className="text-xs font-bold uppercase tracking-widest mb-3 text-gray-400">Insights & Inspiration</p>
           <h1 className="text-4xl font-black mb-4" style={{ fontFamily: 'var(--font-heading)', color: 'var(--color-dark)' }}>Our Blog</h1>
-          <p className="text-gray-500">Fashion tips, style guides, and the latest trends — all in one place.</p>
+          <p className="text-gray-500">Fashion tips, style guides, and the latest trends — all in one place. Fashion tips, style guides, and the latest trends — all in one place.</p>
         </div>
       </section>
 
